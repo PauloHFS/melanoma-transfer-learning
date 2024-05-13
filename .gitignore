@@ -163,3 +163,9 @@ archive.zip
 dataset
 
 old.ipynb
+
+.local/**/*
+.keras/**/*
+.jupyter/**/*
+
+.bash_history
