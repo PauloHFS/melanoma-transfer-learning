@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+matplotlib
+pandas
+seaborn
+tensorflow[and-cuda]==2.17
+autokeras
+ipykernel
