@@ -169,3 +169,7 @@ old.ipynb
 .jupyter/**/*
 
 .bash_history
+
+dataset.zip
+
+model.weights.h5
